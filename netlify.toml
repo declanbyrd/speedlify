@@ -11,7 +11,7 @@ package = "./plugins/keep-data-cache"
     Access-Control-Allow-Origin = "*"
 
 [[redirects]]
-  from = "https://speedlify.netlify.app"
-  to = "https://www.speedlify.dev"
+  from = "https://declanbyrd-speedlify.netlify.app"
+  to = "https://speedlify.declanbyrd.co.uk"
   status = 301
   force = true
