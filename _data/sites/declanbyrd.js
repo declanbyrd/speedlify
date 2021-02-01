@@ -10,12 +10,13 @@ module.exports = {
 		freshChrome: 'site',
 	},
 	urls: [
-		'https://www.declanbyrd.co.uk/',
-		'https://www.declanbyrd.co.uk/journal/',
-		'https://www.declanbyrd.co.uk/photos/',
-		'https://www.declanbyrd.co.uk/colophon.html',
-		'https://www.declanbyrd.co.uk/tags/',
+		'https://declanbyrd.co.uk/',
+		'https://declanbyrd.co.uk/journal/',
+		'https://declanbyrd.co.uk/photos/',
+		'https://declanbyrd.co.uk/colophon.html',
+		'https://declanbyrd.co.uk/tags/',
 		// Journal Posts
-		'https://www.declanbyrd.co.uk/journal/2020/foobar/',
+		'https://declanbyrd.co.uk/journal/2020/foobar/',
+		'https://declanbyrd.co.uk/journal/2020/responsive-sizings-css/',
 	],
 };
